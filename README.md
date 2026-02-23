@@ -1,4 +1,4 @@
-# 👋 Hi, I’m dauchman
+# 👋 Hi, I’m uche
 
 🎯 **Data Analyst | Excel • SQL • Power BI • Python**
 
@@ -56,8 +56,8 @@ Some of the projects available on this GitHub include:
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile Link]  
-- **Email:** [your.email@example.com]  
+- **LinkedIn:** [uchechukwuiheakachukwu]  
+- **Email:** [vajuempire@gmail]  
 
 I am open to collaboration, internships, and entry-level data analyst opportunities.
 
